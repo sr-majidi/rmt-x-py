@@ -14,7 +14,7 @@ This repository contains a collection of Python modules for the study and simula
 
 ## Installation
 ```bash
-git clone https://github.com/donn-majidi/rmt-x-py.git
+git clone https://github.com/sr-majidi/rmt-x-py.git
 cd rmt-x-py
 python -m venv .venv
 source .venv/bin/activate  # on Windows: .venv\Scripts\activate
